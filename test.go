@@ -10,6 +10,7 @@ type User struct {
 }
 
 func main() {
+	a:=10
 	names := []string{"Alice", "Bob", "Charlie"}
 	
 	var userMap map[string]*User
